@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">20181CSE0433_SQLITE</string>
+
+    <string-array name="Arrival">
+        <item>Bangalore</item>
+        <item>Toronto</item>
+        <item>Dubai</item>
+        <item>Las Vegas</item>
+        <item>Muscat</item>
+    </string-array>
+
+    <string-array name="Destination">
+        <item>Muscat</item>
+        <item>Las Vegas</item>
+        <item>Dubai</item>
+        <item>Toronto</item>
+        <item>Bangalore</item>
+    </string-array>
+</resources>
